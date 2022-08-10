@@ -1,3 +1,5 @@
-export {};
+import { Goods } from './goods.entity';
 
-export default [];
+export { Goods };
+
+export default [Goods];
